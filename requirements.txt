@@ -1,0 +1,5 @@
+pygame>=2.5
+moderngl>=5.8
+numpy>=1.23
+opencv-python>=4.7
+Pillow>=9.5
